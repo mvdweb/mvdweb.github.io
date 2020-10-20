@@ -1,0 +1,10 @@
+https://developer.mozilla.org/nl/docs/Learn/Getting_started_with_the_web/Publicatie_website
+
+Mail.com:
+mvdweb@post.com
+mvdweb71
+
+GitHub:
+Username: mvdweb
+Email: mvdweb@post.com
+Pass: mvdwebgithub71
